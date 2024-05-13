@@ -1,0 +1,22 @@
+[
+    {
+        "model": "webquicky.product",
+        "pk": 1,
+        "fields": {
+    "productname":"Teeshirt",
+    "productdescription1":"Great for hot weather",
+    "productdescription2" : "made of cotton",
+    "productnumber" :  5
+    }
+    },
+    {
+        "model": "webquicky.product",
+        "pk": 2,
+        "fields": {
+            "productname":"Trouser",
+            "productdescription1":"Great for humid temepereatures",
+            "productdescription2" : "made of polyester",
+            "productnumber" :  5
+        }
+    }
+]
